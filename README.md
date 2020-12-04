@@ -5,3 +5,4 @@ Used modules.
 
 This code is for those in the service, such as security, firefighters, and other emergency responders. In the database file, the data entry person enters the data on the emergency vehicles and their locations. This emergency services will access the file in the time of emergency and can request the services according to the requirement and availability. If the vehicle is not available in their location, it will show the nearest available vehicle in the table. It will also allot the vehicle from the other location if the vehicle is unavailable in their location.
 
+This code also has the retune conformation module which only present in the apps available at the vehicle controllers who notifies the return of vehicle and ready for the next service. For the demo, I added this functionality in this code.
