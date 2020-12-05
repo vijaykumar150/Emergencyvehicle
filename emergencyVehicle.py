@@ -169,4 +169,8 @@ def add_zipcode(zip1, zip2, distance):
     cur1.execute('insert into Distance values(?,?,?)', (zip2, zip1, distance))
     conn1.commit()
 
+<<<<<<< HEAD
     return "Added Zipcodes"      # show as the comment when successfully executed this program
+=======
+    return "Added Zipcodes"      # showes as the comment
+>>>>>>> 4ecc2011c0f052454bdc7fa6edf31c1478e59871
